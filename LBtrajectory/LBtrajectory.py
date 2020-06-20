@@ -1,6 +1,6 @@
 import numpy as np
 
-def spin_prec(time):
+def trajectory(time):
     alpha = np.radians(45)
     beta = np.radians(50)
     omega_a = np.pi/30/192.348
